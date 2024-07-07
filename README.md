@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Andriy
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=500&color=11F2F7&random=false&width=435&lines=My+name+Andriy;I'm+full+stack+Web+developer;Now+I+learn+js" alt="Typing SVG" /></a>
