@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andriy1years)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andriy1years&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Full Year Calendar](./metrics.plugin.isocalendar.fullyear.svg)
 
